@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Henrique
 
-<!--
-**JoaoHenriqueHSR/JoaoHenriqueHSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em:
 
-Here are some ideas to get you started:
+  - Meu projeto de **TCC**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou atualmente aprendendo:
+
+  - **C# e .NET Framework**, **TypeScript**, **React JS**, **React Native** e **Firebase**.
+  - Alem de estar fazendo curso tecnico de **Desenvolvimento de Sistemas**
+
+- 🤔 Estou procurando ajuda com:
+
+  - Boas práticas em **arquitetura de software**, **UI/UX** e na estruturação do meu **TCC**. 
+
+- ⚡ Curiosidade:
+
+  - Gosto de me desafiar a criar alguns jogos simples
+  - Tenho paixão em estudar **história** e nos momentos livres **jogar videogame e programar por diversão**.
+
+## 📊 Etatisticas de linguagens usadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenriqueHSR&layout=pie)](https://github.com/JoaoHenriqueHSR/github-readme-stats)
+
+
+## ⚙️ Algumas tecnologias que já utilizei:
+**Frontend:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind)](https://skillicons.dev)  
+
+**Backend / Banco de dados:**  
+[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,firebase)](https://skillicons.dev)  
+
+**Design / Ferramentas:**  
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/joao-henrique-b284b9284/)
