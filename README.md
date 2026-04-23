@@ -2,16 +2,16 @@
 
 - 🔭 Atualmente estou trabalhando em:
 
-  - Meu projeto de **TCC**.  
+  - Fazendo pequenos projetos e procurandos oportunidades.  
 
 - 🌱 Estou atualmente aprendendo:
 
-  - **C# e .NET Framework**, **TypeScript**, **React JS**, **React Native** e **Firebase**.
-  - Alem de estar fazendo curso tecnico de **Desenvolvimento de Sistemas**
+  - **Java**, **C# e .NET Framework**, **TypeScript**, **React JS**, **React Native** e **Firebase**.
+  - Alem de estar vendo conteudo sobre **Redes**
 
 - 🤔 Estou procurando ajuda com:
 
-  - Boas práticas em **arquitetura de software**, **UI/UX** e na estruturação do meu **TCC**. 
+  - Boas práticas em **arquitetura de software** e **UI/UX**. 
 
 - ⚡ Curiosidade:
 
